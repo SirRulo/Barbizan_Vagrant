@@ -1,0 +1,51 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  man ls
+    6  ls -l
+    7  man man
+    8  ls
+    9  cd repogit
+   10  ls
+   11  cd ..
+   12  ls
+   13  cat README
+   14  git clone https://github.com/SirRulo/Barbizan_Vagrant.git
+   15  ls
+   16  cd Barbizan_Vagrant/
+   17  ls
+   18  history
+   19  history > historial.txt
+   20  ls
+   21  cat historial.txt
+   22  git status
+   23  git add .
+   24  git status
+   25  git commit -m "Arqui"
+   26  git config --global user.email "franco.barbizan@gmail.com"
+   27  git config --global user.name "SirRulo"
+   28  git commit -m "Arqui"
+   29  git branch -M main
+   30  git remote add origin https://github.com/SirRulo/Barbizan_Vagrant.git
+   31  git push
+   32  git push -u origin main
+   33  exit
+   34  ls
+   35  ssh-keygen -t ed25519
+   36  ls -la
+   37  cd .ssh
+   38  cd ..
+   39  cat .ssh/id_ed25519.pub
+   40  cd .ssh
+   41  cat .ssh/id_ed25519.pub
+   42  cat id_ed25519.pub
+   43  cd ..
+   44  ls
+   45  cd repogit
+   46  ls
+   47  git clone git@github.com:SirRulo/Barbizan_Vagrant.git
+   48  ls
+   49  cd Barbizan_Vagrant
+   50  ls
+   51  history > historial.txt
